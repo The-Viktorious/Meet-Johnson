@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Johnson Babawale
-- 👀 I’m interested in product design
-- 🌱 I’m currently learning UI/UX design with Figma
-- 💞️ I’m looking to collaborate on building an LMS app
+- 👀 I’m a business development analyst, with experience in research, marketing and sales.
+- 🌱 I’m always looking for new developments and opportunities to learn.
+- 💞️ I'm here to collaborate and build meaningful business insights.
 - 📫 How to reach me is mainly through my primary email address babawalesj@gmail.com
 
 <!---
